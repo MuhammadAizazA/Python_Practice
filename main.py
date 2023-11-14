@@ -30,3 +30,5 @@ FlyingCar_obj.drive()
 FlyingCar_obj.fly()
 
 FlyingCar_obj.show_fuel()
+
+print(FlyingCar.__mro__)
