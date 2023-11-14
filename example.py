@@ -28,3 +28,6 @@ class Car:
 obj=Car(2001,2000,2001,'blue')
 obj1 = copy.copy(obj)
 print(obj1.color,obj1.make)
+
+
+
